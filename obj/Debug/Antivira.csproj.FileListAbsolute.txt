@@ -1,0 +1,13 @@
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\bin\Debug\Antivira.exe.config
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\bin\Debug\Antivira.exe.manifest
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\bin\Debug\Antivira.application
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\bin\Debug\Antivira.exe
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\bin\Debug\Antivira.pdb
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\Antivira.AntiviraUI.resources
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\Antivira.Properties.Resources.resources
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\Antivira.csproj.GenerateResource.Cache
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\Antivira.exe.manifest
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\Antivira.application
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\Antivira.exe
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\Antivira.pdb
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\Antivira.csprojResolveAssemblyReference.cache

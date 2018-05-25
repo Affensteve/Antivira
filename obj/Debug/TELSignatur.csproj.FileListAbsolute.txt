@@ -1,0 +1,16 @@
+c:\users\affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\bin\Debug\TELSignatur.exe.config
+c:\users\affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\bin\Debug\TELSignatur.exe
+c:\users\affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\bin\Debug\TELSignatur.pdb
+c:\users\affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\obj\Debug\TELSignatur.csprojResolveAssemblyReference.cache
+c:\users\affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\obj\Debug\TELSignatur.Properties.Resources.resources
+c:\users\affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\obj\Debug\TELSignatur.csproj.GenerateResource.Cache
+c:\users\affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\obj\Debug\TELSignatur.exe
+c:\users\affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\obj\Debug\TELSignatur.pdb
+C:\Users\Affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\obj\Debug\TELSignatur.TELSigantur.resources
+C:\Users\Affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\bin\Debug\TELSignatur.exe.manifest
+C:\Users\Affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\bin\Debug\TELSignatur.application
+C:\Users\Affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\obj\Debug\TELSignatur.exe.manifest
+C:\Users\Affensteve\documents\visual studio 2015\Projects\TELSignatur\TELSignatur\obj\Debug\TELSignatur.application
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\bin\Debug\TELSignatur.exe.config
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\TELSignatur.exe
+C:\Users\Affensteve\Documents\Visual Studio 2015\Projects\Antivira\TELSignatur\obj\Debug\TELSignatur.pdb
